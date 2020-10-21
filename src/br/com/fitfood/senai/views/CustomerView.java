@@ -1,7 +1,7 @@
 
-package br.com.fitfood.conexao.views;
+package br.com.fitfood.senai.views;
 
-import br.com.fitfood.conexao.database.Database;
+import br.com.fitfood.senai.database.Database;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

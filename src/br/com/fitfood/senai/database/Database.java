@@ -1,5 +1,5 @@
 
-package br.com.fitfood.conexao.database;
+package br.com.fitfood.senai.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

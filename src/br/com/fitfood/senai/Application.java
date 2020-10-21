@@ -1,7 +1,7 @@
-package br.com.fitfood.conexao;
+package br.com.fitfood.senai;
 
-import br.com.fitfood.conexao.database.Database;
-import br.com.fitfood.conexao.views.CustomerView;
+import br.com.fitfood.senai.database.Database;
+import br.com.fitfood.senai.views.CustomerView;
 
 public class Application {
     public static void main(String args[]) {
